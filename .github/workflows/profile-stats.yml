@@ -1,8 +1,8 @@
 name: Profile stats
 
 # Regenerates assets/stats.svg with PUBLIC-only GitHub figures.
-# Requires a repository secret PROFILE_STATS_TOKEN: a read-only, public-scope token
-# (see the setup steps in the pull request / README notes). No private data is read.
+# Uses the existing METRICS_TOKEN secret (a classic token with public_repo scope).
+# The script reads PUBLIC data only; no private-repository data is requested.
 
 on:
   workflow_dispatch:
@@ -28,7 +28,7 @@ jobs:
 
       - name: Regenerate stats.svg
         env:
-          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 assets/stats.py
 
