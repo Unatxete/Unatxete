@@ -1,78 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="596" viewBox="0 0 1000 596" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
   <title id="t">unax@github — profile card</title>
   <desc id="d">ASCII portrait, role, focus, languages, tools, contact and public GitHub statistics for UnaxAlonso0.</desc>
-  <rect x="1" y="1" width="998" height="594" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-  <path d="M1 13 A12 12 0 0 1 13 1 H987 A12 12 0 0 1 999 13 V44 H1 Z" fill="#161b22"/>
-  <line x1="1" y1="44" x2="999" y2="44" stroke="#30363d"/>
-  <circle cx="26" cy="22.5" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="22.5" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="22.5" r="6" fill="#27c93f"/>
-  <text x="500" y="27" text-anchor="middle" font-size="13" fill="#8b949e">unax@github: ~</text>
-  <text font-size="9" fill="#c4b5fd" xml:space="preserve">
-    <tspan x="165.6" y="74.0" textLength="151.2" lengthAdjust="spacing">..'''````,,,,:::::::::,`'...</tspan>
-    <tspan x="149.4" y="83.6" textLength="183.6" lengthAdjust="spacing">..''`,;;;;-~~~~+**xx*xx**+=-:`'...</tspan>
-    <tspan x="133.2" y="93.2" textLength="216.0" lengthAdjust="spacing">..',;~+*x######%%%%#%%%%########x+-:`'..</tspan>
-    <tspan x="122.4" y="102.8" textLength="237.6" lengthAdjust="spacing">.',;+x#######%%%%%####%%#%%%######%%#x*=;`'.</tspan>
-    <tspan x="111.6" y="112.4" textLength="259.2" lengthAdjust="spacing">.`:~*#######%%%@@%%%%%%%%%##%%%%%%#########*-`'.</tspan>
-    <tspan x="100.8" y="122.0" textLength="280.8" lengthAdjust="spacing">.`;=*xxxx###%@@@%%#%%%@@%%%%@@%%%%%%%%%%#######*~:'.</tspan>
-    <tspan x="90.0" y="131.6" textLength="302.4" lengthAdjust="spacing">.':=*xxxx###%%%%%#%%%@@@@@@@%%%@@@@%%##############x+;`.</tspan>
-    <tspan x="84.6" y="141.2" textLength="318.6" lengthAdjust="spacing">.`-+xxxx#####%%##%%@@@%@@@@@@@@%%%@@@@%%##############x+;`.</tspan>
-    <tspan x="73.8" y="150.8" textLength="334.8" lengthAdjust="spacing">.':=xxxx########%%%@@@@@@@@@@@@@@@@@%%%%%%%%%%%%##%######x+~:'</tspan>
-    <tspan x="68.4" y="160.4" textLength="345.6" lengthAdjust="spacing">.`-+xxxx%%%#%#%%%%@@@@@@@@@@@@@@@@@@@@@%%%%%%%%##%%%####%###*=;`</tspan>
-    <tspan x="63.0" y="170.0" textLength="356.4" lengthAdjust="spacing">.,~**xxx#%@@@@@%%%%%%@@@@@@@%@@@@@@@@%@%%%%%%%%%%###%%%##%%###*=;`</tspan>
-    <tspan x="57.6" y="179.6" textLength="367.2" lengthAdjust="spacing">.,~*xxx#%%@@@@@%%%%%%%%%%@@@@@@%@@@@%%%%%%%%%@@%%%%%%%%%%%%%%%%#*=:'</tspan>
-    <tspan x="52.2" y="189.2" textLength="378.0" lengthAdjust="spacing">.,-*xxx#%@@@@@@@@@%@@@@@%@@@%@@@%%@@@%@@@@@@@@@@%%%%####%%##%#%@%#*~:.</tspan>
-    <tspan x="52.2" y="198.8" textLength="378.0" lengthAdjust="spacing">';=xx###%%@@@@@@@@@@@@@@@@@@@@@%#%%@@@@@@@@@@@@@%%%%%%%##%%####%%%#*-'</tspan>
-    <tspan x="52.2" y="208.4" textLength="383.4" lengthAdjust="spacing">'-*xxxx#%%@@@@@@@@@@@@@@@@@@@@@@%#%@@@@@@@@@@@@%%%%##%%#x#%##**#%%%x+,.</tspan>
-    <tspan x="46.8" y="218.0" textLength="388.8" lengthAdjust="spacing">.'~x#x####%%@@%%%%@@@@@%%%%%%@%@%#x#@@@@@@@@%%@@%#xxx#x###xxxx***###x*-.</tspan>
-    <tspan x="41.4" y="227.6" textLength="399.6" lengthAdjust="spacing">.'`=#####x*xxxx##%%%%%@#xx*##%##%%x*+x@%%%%%%%%%%##*++********++++x###x=`.</tspan>
-    <tspan x="41.4" y="237.2" textLength="399.6" lengthAdjust="spacing">.'`~##xxx+===++*+++*xxx#xx*#######x+*#%#%###xxxxx+++=~~~~~~~===~~~+x##x=`.</tspan>
-    <tspan x="41.4" y="246.8" textLength="405.0" lengthAdjust="spacing">.'`:x##xx+~;;-~====**=+*xx###xx****+*x#xx#+**++=~====~--;;;;;;;;;;=x#x#=''.</tspan>
-    <tspan x="36.0" y="256.4" textLength="410.4" lengthAdjust="spacing">.'``,=####*-;---~=++=~~--------~==~~~=+**+=-~==~~--~~~~----;;;;;;;;=x###;`'.</tspan>
-    <tspan x="36.0" y="266.0" textLength="410.4" lengthAdjust="spacing">.'``,,+#x#x-:;;-~~~~~==~=~--;:,,:::::::;------~===+++++***++~-;;;-;=###~``'.</tspan>
-    <tspan x="36.0" y="275.6" textLength="410.4" lengthAdjust="spacing">.'`````~xx#=:;;~+***xxxxxx*+=-,,:````````:;-~-=+**xxxxx***++*+=-;--+##+``,`'</tspan>
-    <tspan x="36.0" y="285.2" textLength="410.4" lengthAdjust="spacing">.'`````,*##*;;===~=====++++=~-;,:`````````,::;;-~~~~~--;;:;;;;--;--x#x:``,`'</tspan>
-    <tspan x="36.0" y="294.8" textLength="410.4" lengthAdjust="spacing">.'``````;+##~;:::::;;;;--~~~-;::,`````````,::;-~=++++===~-;::,:;;;=x#~;:,,`'</tspan>
-    <tspan x="36.0" y="304.4" textLength="410.4" lengthAdjust="spacing">.'``````,,;#*:,,,:-~=+*xx#x*++~--;,``````:;-~~===-x####++*=-;::;;-=x~:~;,,`'</tspan>
-    <tspan x="36.0" y="314.0" textLength="410.4" lengthAdjust="spacing">.'`,,,,`,:`;x;,`,;=*+:=#x##~;++=~~-:,``,:;~=~=+=;`~xx#*;~+=~;::;;-==::~;,,`'</tspan>
-    <tspan x="36.0" y="323.6" textLength="410.4" lengthAdjust="spacing">.',-~~~~:;,`--,``:-~~-;++*+~=+=~-~-;::::;-~~-~====-===~~~~-;:::;;---;;~:,,`'</tspan>
-    <tspan x="36.0" y="333.2" textLength="410.4" lengthAdjust="spacing">.':~=+++~:``:;,,,,:::;;;;;-~~~--~--;:::;;--~~~-----;;;;;;;;::::;;--~-,;,,,'.</tspan>
-    <tspan x="41.4" y="342.8" textLength="405.0" lengthAdjust="spacing">.,~=++==:`;::,,,``,,,,,::;;;;;;;;;:::;::;---;;;;;;;;::::::,,::;;--:=-;,,`'.</tspan>
-    <tspan x="41.4" y="352.4" textLength="399.6" lengthAdjust="spacing">.,-=++++-,~~;,,```````,,,,,,,,:::::,:;:;;;;;::,,,,::::,,```,,:;;-;~+~;```.</tspan>
-    <tspan x="41.4" y="362.0" textLength="399.6" lengthAdjust="spacing">.`;~=++++;,:;:``````````````,,::;;;:;;;----;;:,,,```,,`````,::;;-;;;-:``'.</tspan>
-    <tspan x="46.8" y="371.6" textLength="388.8" lengthAdjust="spacing">':-==+=++;``:,`````````````,,::;;;;;;;-----;:,,,``````,,,,,::;-~;,;:``''</tspan>
-    <tspan x="46.8" y="381.2" textLength="388.8" lengthAdjust="spacing">.,;~=+==+=```,``````````````,;--;::::;---~~-;,,``````````,,::;~;:::``''.</tspan>
-    <tspan x="52.2" y="390.8" textLength="378.0" lengthAdjust="spacing">',-~=====~;:;,`````````````,;-;:,``,:;-~~~~;,```````,``,,,:;-~:`````'.</tspan>
-    <tspan x="52.2" y="400.4" textLength="372.6" lengthAdjust="spacing">.`:-=======+~:,````````````,::,``````,:;;;-;:,`````````,,:;;-~:````'.</tspan>
-    <tspan x="57.6" y="410.0" textLength="361.8" lengthAdjust="spacing">.`:-~======~:,`````````,,,,::;:``````:;--;;::,,`````,,::;;;-~:``''.</tspan>
-    <tspan x="63.0" y="419.6" textLength="351.0" lengthAdjust="spacing">.`:-~====~=;,,``````,,,::::;--;,```;~~~-;;;:::,,,,,,:::;;-~~:`''.</tspan>
-    <tspan x="68.4" y="429.2" textLength="340.2" lengthAdjust="spacing">.`:-~===~=~,,,,,`,,,:::;;;;--;;:::;;-----;;;;::::::::;;;---:''.</tspan>
-    <tspan x="73.8" y="438.8" textLength="329.4" lengthAdjust="spacing">.`:;~~==~=;,,,,,,,,,,,,::::::;-;::::;-;;;:::;::::;;;;;;~;;,..</tspan>
-    <tspan x="79.2" y="448.4" textLength="313.2" lengthAdjust="spacing">.',;-~~~=~:,,::,,,,:;;---;;::;;;;-;;;;;;;:,::::;;;;;;-=;:'</tspan>
-    <tspan x="90.0" y="458.0" textLength="302.4" lengthAdjust="spacing">.`:;-~~~::,,:,`,,:;-========~==+=++++~--:,,,:;;;;;;~~,'.</tspan>
-    <tspan x="95.4" y="467.6" textLength="286.2" lengthAdjust="spacing">.'`:-~-::::::,,,:::::;;;----------;;;::::::;;;;;;;;,.</tspan>
-    <tspan x="106.2" y="477.2" textLength="270.0" lengthAdjust="spacing">.'`:;:::::::,:::::,,::;;---;;::::::::::;;;;;;:,`'.</tspan>
-    <tspan x="117.0" y="486.8" textLength="248.4" lengthAdjust="spacing">.'```,,::::::::::::;;----;;:::::;:::;;;;;:,'..</tspan>
-    <tspan x="133.2" y="496.4" textLength="216.0" lengthAdjust="spacing">..''`,:;;::;;;;--;;;-----;:;;;;;:;;:,`'.</tspan>
-    <tspan x="154.8" y="506.0" textLength="178.2" lengthAdjust="spacing">..'`:::::;;-;;:::;;---;;;::::,`'.</tspan>
-    <tspan x="176.4" y="515.6" textLength="140.4" lengthAdjust="spacing">.'``,,,::,,,`,::::::,``'..</tspan>
-    <tspan x="198.0" y="525.2" textLength="91.8" lengthAdjust="spacing">....''.''''''....</tspan>
+  <rect x="1" y="1" width="998" height="598" rx="14" fill="#161b22"/>
+  <text font-size="14" fill="#c9d1d9" font-weight="600" xml:space="preserve">
+    <tspan x="170.8" y="58.8" textLength="134.4" lengthAdjust="spacing">=+**xxx##%###x*=</tspan>
+    <tspan x="137.2" y="75.6" textLength="193.2" lengthAdjust="spacing">=*#%%%@@@%%%%%%%%%%%%x+</tspan>
+    <tspan x="120.4" y="92.4" textLength="235.2" lengthAdjust="spacing">+x###%%@%%%@@@%@@@%%%%%%%#*=</tspan>
+    <tspan x="103.6" y="109.2" textLength="285.6" lengthAdjust="spacing">=x####%%%%@@@@@@@@@@@%%%%%%%%%%x*=</tspan>
+    <tspan x="86.8" y="126.0" textLength="310.8" lengthAdjust="spacing">=*###%%%%%@@@@@@@@@@@@%%%%%%%%#%%%%%=</tspan>
+    <tspan x="70.0" y="142.8" textLength="327.6" lengthAdjust="spacing">~*####@@@@%@@@@@@@@@@@%@@@@@%%%%%%%%%%#</tspan>
+    <tspan x="70.0" y="159.6" textLength="336.0" lengthAdjust="spacing">=#%##@@@@@@@@@@@@@%@@@@@@@@@%%%%%%%%@@%~</tspan>
+    <tspan x="78.4" y="176.4" textLength="327.6" lengthAdjust="spacing">x###%@@@@@@@@@@@@%%@@@@@@@%%%%%##xx%%%~</tspan>
+    <tspan x="78.4" y="193.2" textLength="327.6" lengthAdjust="spacing">*%##xx###%%%##%%%#*%@%%%%%x*******+x#%+</tspan>
+    <tspan x="78.4" y="210.0" textLength="327.6" lengthAdjust="spacing">=%#x~~=++*+*xxxxx**##x**+===~~---~~+#%~</tspan>
+    <tspan x="86.8" y="226.8" textLength="310.8" lengthAdjust="spacing">+%#~-~+++++=~-----~====++*****=~~~+%*</tspan>
+    <tspan x="95.2" y="243.6" textLength="294.0" lengthAdjust="spacing">*%=-+++****+-;:```,;-~+**++====~~x#</tspan>
+    <tspan x="95.2" y="260.4" textLength="302.4" lengthAdjust="spacing">;+x-;;~=+**+=~;,``:-~==+xx*+=;;-=x=-</tspan>
+    <tspan x="86.8" y="277.2" textLength="310.8" lengthAdjust="spacing">-;:~~:-+=+##+*+=-::-==++~x#+++-;-==-~</tspan>
+    <tspan x="70.0" y="294.0" textLength="327.6" lengthAdjust="spacing">=**=::-:;---~~==~=~--~==~==~----;;-~~~;</tspan>
+    <tspan x="70.0" y="310.8" textLength="327.6" lengthAdjust="spacing">=*+*-~-:,,:::;;;--;---~--;;;;;::;-~~==;</tspan>
+    <tspan x="70.0" y="327.6" textLength="319.2" lengthAdjust="spacing">+*+*+;::,,,,,,::;----~~~-;::::::;-~~--</tspan>
+    <tspan x="70.0" y="344.4" textLength="310.8" lengthAdjust="spacing">+**+*=:;,,,```,:~~;;;~~=~;:,,:::;-=-;</tspan>
+    <tspan x="61.6" y="361.2" textLength="302.4" lengthAdjust="spacing">-+++++++=;,```,:;-;:``;~~~;:,,::;-~=</tspan>
+    <tspan x="61.6" y="378.0" textLength="302.4" lengthAdjust="spacing">~+++++++=;::,:;;--~-:,-=~~--;;;;--~=</tspan>
+    <tspan x="61.6" y="394.8" textLength="302.4" lengthAdjust="spacing">~*+++++++~;;;;;;--------~~-------~==</tspan>
+    <tspan x="61.6" y="411.6" textLength="302.4" lengthAdjust="spacing">=*+++++++=;;;:;-~======++=~-;;-~-~*=</tspan>
+    <tspan x="61.6" y="428.4" textLength="302.4" lengthAdjust="spacing">+***+++++=-;-;;--;-~~~~~------~~~=*=</tspan>
+    <tspan x="61.6" y="445.2" textLength="302.4" lengthAdjust="spacing">+***+++++=-;;------~~~~------~~~~+*=</tspan>
+    <tspan x="53.2" y="462.0" textLength="310.8" lengthAdjust="spacing">-****+++++=-;;;---~~---~~~~~~~~--~+*=</tspan>
+    <tspan x="53.2" y="478.8" textLength="310.8" lengthAdjust="spacing">~******+++=;;:::-----;;--~~~~----~+*=</tspan>
+    <tspan x="53.2" y="495.6" textLength="319.2" lengthAdjust="spacing">=*x**+~~==~;;:::;;;;;;;;-----;;--~=++~</tspan>
+    <tspan x="53.2" y="512.4" textLength="344.4" lengthAdjust="spacing">=+=-   ;=~-;;::::::::::;;;-;;;;--~=++++=~</tspan>
+    <tspan x="112.0" y="529.2" textLength="285.6" lengthAdjust="spacing">,+~--;;:::::::::::;;;;;;--~~====+-</tspan>
+    <tspan x="120.4" y="546.0" textLength="268.8" lengthAdjust="spacing">;+~-;;;::::::,:::;::;;;--~~~=++-</tspan>
+    <tspan x="137.2" y="562.8" textLength="235.2" lengthAdjust="spacing">-==~;;:::::::::::;;---~~===-</tspan>
+    <tspan x="154.0" y="579.6" textLength="193.2" lengthAdjust="spacing">;~~~-;;;;;;;;;;--~~~=~-</tspan>
   </text>
-  <line x1="470" y1="64" x2="470" y2="572" stroke="#30363d"/>
   <g font-size="15" xml:space="preserve">
-    <text x="496" y="96"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e"> ────────────────────────────────────────</tspan></text>
-    <text x="496" y="132" fill="#a78bfa">Role</text><text x="606" y="132" fill="#c9d1d9">Cybersecurity Engineering undergraduate</text>
-    <text x="496" y="162" fill="#a78bfa">Focus</text><text x="606" y="162" fill="#c9d1d9">Secure dev · Networks · Databases</text>
-    <text x="496" y="192" fill="#a78bfa">Languages</text><text x="606" y="192" fill="#c9d1d9">Java · Python · PowerShell · MicroPython</text>
-    <text x="496" y="222" fill="#a78bfa">Tools</text><text x="606" y="222" fill="#c9d1d9">Git · Linux · WireGuard · Snort · sqlmap</text>
-    <text x="496" y="252" fill="#a78bfa">Learning</text><text x="606" y="252" fill="#c9d1d9">CCNA · Cryptography · MySQL · RGPD</text>
-    <text x="496" y="304"><tspan fill="#f0883e">- Contact </tspan><tspan fill="#8b949e">───────────────────────────────────────────</tspan></text>
-    <text x="496" y="336" fill="#a78bfa">Email</text><text x="606" y="336" fill="#a5d6ff">unax.aj@gmail.com</text>
-    <text x="496" y="366" fill="#a78bfa">GitHub</text><text x="606" y="366" fill="#a5d6ff">UnaxAlonso0</text>
-    <text x="496" y="418"><tspan fill="#f0883e">- GitHub Stats </tspan><tspan fill="#8b949e">──────────────────────────────────────</tspan></text>
-    <text x="496" y="450" fill="#a78bfa">Repos<tspan fill="#c9d1d9">: </tspan><tspan fill="#7ee787" font-weight="600" id="v_repos">3</tspan></text>
-    <text x="700" y="450" fill="#a78bfa">Contributed<tspan fill="#c9d1d9">: </tspan><tspan fill="#7ee787" font-weight="600" id="v_contrib">2</tspan></text>
-    <text x="496" y="480" fill="#a78bfa">Stars<tspan fill="#c9d1d9">: </tspan><tspan fill="#7ee787" font-weight="600" id="v_stars">0</tspan></text>
-    <text x="700" y="480" fill="#a78bfa">Followers<tspan fill="#c9d1d9">: </tspan><tspan fill="#7ee787" font-weight="600" id="v_followers">0</tspan></text>
+    <text x="486" y="98" fill="#ffffff" textLength="99.0" lengthAdjust="spacing">unax@github</text><line x1="595.0" y1="93" x2="972" y2="93" stroke="#6e7681"/>
+    <text x="486" y="130" fill="#ffa657" textLength="36.0" lengthAdjust="spacing">Role</text><line x1="532.0" y1="126" x2="611.0" y2="126" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="621.0" y="130" fill="#a5d6ff" textLength="351.0" lengthAdjust="spacing">Cybersecurity Engineering undergraduate</text>
+    <text x="486" y="158" fill="#ffa657" textLength="45.0" lengthAdjust="spacing">Focus</text><line x1="541.0" y1="154" x2="665.0" y2="154" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="675.0" y="158" fill="#a5d6ff" textLength="297.0" lengthAdjust="spacing">Secure dev · Networks · Databases</text>
+    <text x="486" y="186" fill="#ffa657" textLength="81.0" lengthAdjust="spacing">Languages</text><line x1="577.0" y1="182" x2="602.0" y2="182" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="612.0" y="186" fill="#a5d6ff" textLength="360.0" lengthAdjust="spacing">Java · Python · PowerShell · MicroPython</text>
+    <text x="486" y="214" fill="#ffa657" textLength="45.0" lengthAdjust="spacing">Tools</text><line x1="541.0" y1="210" x2="602.0" y2="210" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="612.0" y="214" fill="#a5d6ff" textLength="360.0" lengthAdjust="spacing">Git · Linux · WireGuard · Snort · sqlmap</text>
+    <text x="486" y="242" fill="#ffa657" textLength="72.0" lengthAdjust="spacing">Learning</text><line x1="568.0" y1="238" x2="656.0" y2="238" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="666.0" y="242" fill="#a5d6ff" textLength="306.0" lengthAdjust="spacing">CCNA · Cryptography · MySQL · RGPD</text>
+    <text x="486" y="294" fill="#c9d1d9" textLength="81.0" lengthAdjust="spacing">- Contact</text><line x1="577.0" y1="289" x2="972" y2="289" stroke="#6e7681"/>
+    <text x="486" y="326" fill="#ffa657" textLength="45.0" lengthAdjust="spacing">Email</text><line x1="541.0" y1="322" x2="809.0" y2="322" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="819.0" y="326" fill="#a5d6ff" textLength="153.0" lengthAdjust="spacing">unax.aj@gmail.com</text>
+    <text x="486" y="354" fill="#ffa657" textLength="54.0" lengthAdjust="spacing">GitHub</text><line x1="550.0" y1="350" x2="863.0" y2="350" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="873.0" y="354" fill="#a5d6ff" textLength="99.0" lengthAdjust="spacing">UnaxAlonso0</text>
+    <text x="486" y="406" fill="#c9d1d9" textLength="126.0" lengthAdjust="spacing">- GitHub Stats</text><line x1="622.0" y1="401" x2="972" y2="401" stroke="#6e7681"/>
+    <text x="486" y="438" fill="#ffa657" textLength="45.0" lengthAdjust="spacing">Repos</text><line x1="541.0" y1="434" x2="902.0" y2="434" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="972" y="438" text-anchor="end" fill="#a5d6ff" font-weight="600"><tspan id="v_repos">3</tspan></text>
+    <text x="486" y="466" fill="#ffa657" textLength="99.0" lengthAdjust="spacing">Contributed</text><line x1="595.0" y1="462" x2="902.0" y2="462" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="972" y="466" text-anchor="end" fill="#a5d6ff" font-weight="600"><tspan id="v_contrib">2</tspan></text>
+    <text x="486" y="494" fill="#ffa657" textLength="45.0" lengthAdjust="spacing">Stars</text><line x1="541.0" y1="490" x2="902.0" y2="490" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="972" y="494" text-anchor="end" fill="#a5d6ff" font-weight="600"><tspan id="v_stars">0</tspan></text>
+    <text x="486" y="522" fill="#ffa657" textLength="81.0" lengthAdjust="spacing">Followers</text><line x1="577.0" y1="518" x2="902.0" y2="518" stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.1 6.5"/><text x="972" y="522" text-anchor="end" fill="#a5d6ff" font-weight="600"><tspan id="v_followers">0</tspan></text>
   </g>
 </svg>
