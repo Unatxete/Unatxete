@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+  <title id="title">unax@github:~$ whoami</title>
+  <desc id="desc">Unax Alonso — Cybersecurity Engineering undergraduate. Secure development, networks, databases, embedded and automation.</desc>
+
+  <!-- terminal panel: supplies its own background, so it reads identically in light and dark themes -->
+  <rect x="1" y="1" width="758" height="236" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <path d="M1 13 A12 12 0 0 1 13 1 H747 A12 12 0 0 1 759 13 V44 H1 Z" fill="#161b22"/>
+  <line x1="1" y1="44" x2="759" y2="44" stroke="#30363d" stroke-width="1"/>
+  <circle cx="26" cy="22.5" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="22.5" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="22.5" r="6" fill="#27c93f"/>
+  <text x="380" y="27" text-anchor="middle" font-size="13" fill="#8b949e">unax@github: ~</text>
+
+  <!-- body -->
+  <g font-size="16" xml:space="preserve">
+    <!-- line 1 -->
+    <text x="28" y="84"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
+    <text x="28" y="112" fill="#e6edf3" font-size="18" font-weight="600">Unax Alonso<tspan fill="#8b949e" font-weight="400" font-size="16">  —  Cybersecurity Engineering undergraduate</tspan></text>
+
+    <!-- line 2 -->
+    <text x="28" y="150"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> cat focus.txt</tspan></text>
+    <text x="28" y="178" fill="#c9d1d9">Secure development<tspan fill="#8b949e"> · </tspan>Networks<tspan fill="#8b949e"> · </tspan>Databases<tspan fill="#8b949e"> · </tspan>Embedded &amp; automation</text>
+
+    <!-- prompt + cursor -->
+    <text x="28" y="216"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan></text>
+    <rect x="180" y="203" width="10" height="18" fill="#a78bfa"/>
+  </g>
+</svg>
