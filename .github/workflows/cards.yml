@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&ring_color=8b5cf6&border_color=312e81&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&ring_color=8b5cf6&border_color=312e81
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
