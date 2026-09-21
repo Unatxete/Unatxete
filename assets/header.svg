@@ -1,30 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="238" viewBox="0 0 760 238" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
-  <title id="title">unax@github:~$ whoami</title>
-  <desc id="desc">Unax Alonso — Cybersecurity Engineering undergraduate. Secure development, networks, databases, embedded and automation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240" role="img" aria-labelledby="btitle bdesc" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+  <title id="btitle">Unax Alonso</title>
+  <desc id="bdesc">Unax Alonso — Cybersecurity · Automation · Applied AI</desc>
 
-  <!-- terminal panel: supplies its own background, so it reads identically in light and dark themes -->
-  <rect x="1" y="1" width="758" height="236" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.5" stop-color="#4c1d95"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.18"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="0" y="0" width="820" height="240" rx="16"/></clipPath>
+  </defs>
 
-  <!-- title bar -->
-  <path d="M1 13 A12 12 0 0 1 13 1 H747 A12 12 0 0 1 759 13 V44 H1 Z" fill="#161b22"/>
-  <line x1="1" y1="44" x2="759" y2="44" stroke="#30363d" stroke-width="1"/>
-  <circle cx="26" cy="22.5" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="22.5" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="22.5" r="6" fill="#27c93f"/>
-  <text x="380" y="27" text-anchor="middle" font-size="13" fill="#8b949e">unax@github: ~</text>
+  <g clip-path="url(#round)">
+    <!-- self-painted background: reads the same in light and dark themes -->
+    <rect x="0" y="0" width="820" height="240" fill="url(#bg)"/>
+    <rect x="0" y="0" width="820" height="240" fill="url(#fade)"/>
 
-  <!-- body -->
-  <g font-size="16" xml:space="preserve">
-    <!-- line 1 -->
-    <text x="28" y="84"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
-    <text x="28" y="112" fill="#e6edf3" font-size="18" font-weight="600">Unax Alonso<tspan fill="#8b949e" font-weight="400" font-size="16">  —  Cybersecurity Engineering undergraduate</tspan></text>
+    <!-- subtle wave motif at the base -->
+    <path d="M0 196 C 150 168, 300 224, 460 200 C 620 176, 720 214, 820 192 L820 240 L0 240 Z" fill="#000000" fill-opacity="0.16"/>
+    <path d="M0 214 C 170 190, 320 236, 500 214 C 660 194, 740 224, 820 210 L820 240 L0 240 Z" fill="#000000" fill-opacity="0.22"/>
 
-    <!-- line 2 -->
-    <text x="28" y="150"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> cat focus.txt</tspan></text>
-    <text x="28" y="178" fill="#c9d1d9">Secure development<tspan fill="#8b949e"> · </tspan>Networks<tspan fill="#8b949e"> · </tspan>Databases<tspan fill="#8b949e"> · </tspan>Embedded &amp; automation</text>
+    <!-- faint monospace prompt watermark -->
+    <text x="40" y="58" font-size="15" fill="#c4b5fd" fill-opacity="0.72">unax@github:~$</text>
 
-    <!-- prompt + cursor -->
-    <text x="28" y="216"><tspan fill="#7ee787">unax@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a5d6ff">~</tspan><tspan fill="#8b949e">$</tspan></text>
-    <rect x="180" y="203" width="10" height="18" fill="#a78bfa"/>
+    <!-- name -->
+    <text x="40" y="140" font-size="66" font-weight="700" fill="#f5f3ff" letter-spacing="0.5">Unax Alonso</text>
+
+    <!-- tagline -->
+    <text x="43" y="180" font-size="21" fill="#ddd6fe">Cybersecurity<tspan fill="#a78bfa"> · </tspan>Automation<tspan fill="#a78bfa"> · </tspan>Applied AI</text>
   </g>
+
+  <rect x="0.75" y="0.75" width="818.5" height="238.5" rx="16" fill="none" stroke="#7c3aed" stroke-opacity="0.5" stroke-width="1.5"/>
 </svg>
