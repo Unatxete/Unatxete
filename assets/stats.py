@@ -59,9 +59,9 @@ def fetch(login: str, token: str) -> dict:
 
 def apply(svg: str, values: dict) -> str:
     for element_id, value in values.items():
-        # Replace the text content of <text ... id="element_id">OLD</text> in place.
+        # Replace the text content of <tspan ... id="element_id">OLD</tspan> in place.
         pattern = re.compile(
-            r'(<text\b[^>]*\bid="' + re.escape(element_id) + r'"[^>]*>)[^<]*(</text>)'
+            r'(<tspan\b[^>]*\bid="' + re.escape(element_id) + r'"[^>]*>)[^<]*(</tspan>)'
         )
         new_svg, count = pattern.subn(rf"\g<1>{value}\g<2>", svg)
         if count != 1:
