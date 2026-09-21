@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Regenerate assets/stats.svg with PUBLIC-only GitHub aggregates.
+"""Regenerate the profile card SVGs (dark and light) with PUBLIC-only GitHub aggregates.
 
 Fetches four unambiguously public figures for the repository owner and writes them
-into the committed terminal-panel SVG by replacing the text of elements addressed by
+into the committed terminal-panel SVGs by replacing the text of elements addressed by
 `id`. No private-repository data (names, line counts, private activity) is ever
 requested or written: every field below is derived from PUBLIC repositories only.
 
@@ -18,7 +18,8 @@ import re
 import sys
 import urllib.request
 
-SVG_PATH = os.path.join(os.path.dirname(__file__), "stats.svg")
+HERE = os.path.dirname(os.path.abspath(__file__))
+SVG_PATHS = [os.path.join(HERE, f"{theme}_mode.svg") for theme in ("dark", "light")]
 API_URL = "https://api.github.com/graphql"
 
 QUERY = """
@@ -77,12 +78,12 @@ def main() -> int:
     login = os.environ.get("GH_LOGIN", "UnaxAlonso0")
 
     values = fetch(login, token)
-    with open(SVG_PATH, encoding="utf-8") as fh:
-        svg = fh.read()
-    updated = apply(svg, values)
-    with open(SVG_PATH, "w", encoding="utf-8") as fh:
-        fh.write(updated)
-    print("stats.svg updated:", values)
+    for path in SVG_PATHS:
+        with open(path, encoding="utf-8") as fh:
+            svg = fh.read()
+        with open(path, "w", encoding="utf-8") as fh:
+            fh.write(apply(svg, values))
+    print("card SVGs updated:", values)
     return 0
 
 
