@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=240&section=header&text=Unax%20Alonso&fontSize=64&fontColor=ede9fe&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%C2%B7%20Automation%20%C2%B7%20Applied%20AI&descSize=20&descAlignY=60&descColor=c4b5fd" width="100%" alt="Unax Alonso" />
 
 <a href="https://github.com/UnaxAlonso0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;AI-Assisted+Tooling+%2B+MCP+Integrations;Endurance+Athlete+%7C+Data-Driven+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;AI-Assisted+Tooling+%2B+MCP+Integrations;Applied+Cryptography+%7C+Networks+%7C+Data+Protection" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,13 +15,12 @@
 <br/>
 
 <a href="https://github.com/UnaxAlonso0?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:unax.aj@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/UnaxAlonso0"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=UnaxAlonso0&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=UnaxAlonso0&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/UnaxAlonso0?style=for-the-badge&logo=github&color=4f46e5&labelColor=1e1b4b" alt="Followers" />
 <img src="https://img.shields.io/github/stars/UnaxAlonso0/UnaxAlonso0?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b" alt="Stars" />
 
@@ -34,7 +33,7 @@
 Cybersecurity student and engineer-in-training with a security-first approach to building software. I work across network security, cryptography, databases and data protection (GDPR / RGPD), and I automate everything that can be automated: modular AI-assisted systems, MCP integrations and reproducible tooling.
 
 - **Software engineering:** clean, modular Python with a strong bias toward automation, documentation and repeatable workflows.
-- **Applied AI:** LLM-driven tooling built on Claude Code and the Model Context Protocol (MCP), from coaching pipelines to personal knowledge systems.
+- **Applied AI:** LLM-driven tooling built on Claude Code and the Model Context Protocol (MCP), from automation frameworks to personal knowledge systems.
 - **Security engineering:** hands-on labs in VPNs, intrusion detection, web exploitation in controlled environments and database hardening.
 - **Product mindset:** systems designed around real users and real constraints, with explicit rules, safe defaults and clear ownership of decisions.
 
@@ -74,8 +73,9 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 ### Cloud, DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,fedora,vscode,obsidian&theme=dark" alt="Tooling" />
+<img src="https://img.shields.io/badge/GitHub_Actions-312e81?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Claude_Code-6d28d9?style=flat-square" alt="Claude Code" />
-<img src="https://img.shields.io/badge/uv-312e81?style=flat-square" alt="uv" />
+<img src="https://img.shields.io/badge/uv-4c1d95?style=flat-square" alt="uv" />
 
 ---
 
@@ -84,9 +84,8 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 | Domain | Proficiency | Details |
 |:--|:--|:--|
 | AI-Assisted Automation | Hands-on | Modular systems on Claude Code with slash commands, persistent context and repeatable workflows |
-| Model Context Protocol (MCP) | Hands-on | Integrations with intervals.icu, Strava, TrainingPeaks and Garmin; a 67-tool server audited and debugged |
+| Model Context Protocol (MCP) | Hands-on | Integrations with several external services; a 67-tool server audited and debugged |
 | LLM Tooling & Prompt Engineering | Applied | Structured prompts, knowledge modules and handoff protocols for agentic coding workflows |
-| Data-Driven Sports Analytics | Applied | Training load modelling (TSS, CTL, sRPE), threshold-based zones and automated weekly planning |
 | AI Governance & Privacy | Academic | Data Protection Impact Assessment of an LLM-driven recommender following AEPD methodology |
 
 ---
@@ -107,29 +106,29 @@ A blockchain implementation built around modern cryptographic primitives: digita
 | **Performance** | Stream cipher (ChaCha20) and hardware-friendly AEAD (AES-256-GCM) options for payload protection |
 | **Security** | Signature verification, tamper-evident hash linking and authenticated encryption |
 | **Impact** | End-to-end applied cryptography project completed as part of the cybersecurity degree |
-| **Repository** | [UnaxAlonso0/AE2-BLOCKCHAIN](https://github.com/UnaxAlonso0/AE2-BLOCKCHAIN) |
+| **Repository** | Available on request |
 
 Designed to show how signatures, hashes and symmetric encryption combine into a system where every block can be independently verified.
 
 </details>
 
 <details>
-<summary><b>AI Triathlon Coaching System &nbsp;|&nbsp; Modular Coaching on Claude Code + MCP</b></summary>
+<summary><b>Claude Code Automation Framework &nbsp;|&nbsp; Modular AI Workflows + MCP</b></summary>
 
 <br/>
 
-A modular coaching system where a `CLAUDE.md` file orchestrates discipline and training modules, slash commands and live data from several training platforms. It plans, adjusts and documents a full triathlon season.
+A modular automation framework where a `CLAUDE.md` file orchestrates knowledge modules, slash commands and live data from external services through MCP. It turns recurring manual routines into structured, repeatable workflows.
 
 | | |
 |:--|:--|
-| **Stack** | Claude Code, MCP, intervals.icu API, Strava, TrainingPeaks, Garmin, wger REST API, Python (`uv`) |
-| **Scale** | 67 MCP tools for intervals.icu, four connected platforms, weekly plans generated end to end |
-| **Performance** | Automated workout generation exported to the watch; strength sessions synced into training load via sRPE |
-| **Security** | Token-based auth, credentials kept out of version control, fallback path when a provider fails |
-| **Impact** | 13 integration defects identified and resolved; training knowledge base grounded in published sports science |
-| **Repository** | [github.com/UnaxAlonso0](https://github.com/UnaxAlonso0?tab=repositories) |
+| **Stack** | Claude Code, MCP, REST APIs, Python (`uv`), Git |
+| **Scale** | 67 MCP tools in a single server integration, several external services connected |
+| **Performance** | End-to-end workflows generated and synchronised without manual steps |
+| **Security** | Token-based authentication, credentials kept out of version control, documented fallback when a provider fails |
+| **Impact** | 13 integration defects identified and resolved; runbooks and syntax references for repeatable operation |
+| **Repository** | Available on request |
 
-Built with explicit rules (fixed rest days, mandatory weekly briefing notes, deduplicated syncs) so the system behaves predictably week after week.
+Built with explicit rules (mandatory review notes, deduplicated syncs, documented constraints) so the system behaves predictably over time.
 
 </details>
 
@@ -215,7 +214,7 @@ Degree focused on defending systems and data, combining technical depth with reg
 
 Design and maintenance of AI-assisted systems that replace manual routines with structured, auditable automation.
 
-- Built and maintain a modular coaching system on Claude Code with MCP integrations
+- Built and maintain a modular automation framework on Claude Code with MCP integrations
 - Audited and debugged a 67-tool MCP server, resolving 13 defects
 - Designing a syllabus-driven study system on Claude Code and Obsidian
 - Documenting runbooks, syntax references and knowledge modules for repeatable operation
@@ -236,8 +235,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 | Applied Cryptography Project | Blockchain in Python combining ECDSA, SHA-256, ChaCha20 and AES-256-GCM |
 | Data Protection Impact Assessment | Full EIPD of an LLM recommendation system following AEPD methodology |
 | Network & Database Security Labs | WireGuard, Snort IDS, SQL injection, ARP spoofing and MySQL privilege escalation with mitigations |
-| MCP Tooling Audit | 67-tool intervals.icu integration reviewed, with 13 defects identified and fixed |
-| Season Planning System | Periodized triathlon training built and automated toward the 2027 season in Vitoria-Gasteiz |
+| MCP Tooling Audit | 67-tool server integration reviewed, with 13 defects identified and fixed |
 
 </div>
 
@@ -251,12 +249,16 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 ---
 
-## Coding Profiles
+## Learning Roadmap
 
 <div align="center">
 
-<a href="https://github.com/UnaxAlonso0"><img src="https://img.shields.io/badge/GitHub-UnaxAlonso0-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.strava.com"><img src="https://img.shields.io/badge/Strava-Training_Log-6d28d9?style=for-the-badge&logo=strava&logoColor=white" alt="Strava" /></a>
+| Domain | Focus |
+|:--|:--|
+| Networking | CCNA 200-301: routing, switching, IP services, network security fundamentals |
+| Programming | Python fundamentals and data structures, Git and GitHub workflows |
+| Databases | SQL in depth, privilege models, encryption and backup strategy |
+| Security | Applied cryptography, secure programming, data protection engineering |
 
 </div>
 
@@ -266,12 +268,23 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=UnaxAlonso0&show_icons=true&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&border_color=312e81&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnaxAlonso0&layout=compact&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&border_color=312e81" alt="Top Languages" />
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=UnaxAlonso0&theme=dark&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=7C3AED&stroke=312E81&border=312E81" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Engineering Metrics
+
+<div align="center">
+
+<img src="./metrics.isocalendar.svg" alt="Isometric Contribution Calendar" width="49%" />
+<img src="./metrics.languages.svg" alt="Languages Activity" width="49%" />
 
 </div>
 
@@ -320,7 +333,7 @@ Learning:
   - Data protection engineering (GDPR / RGPD)
 
 Building:
-  - AI triathlon coaching system on Claude Code + MCP
+  - Claude Code automation framework with MCP integrations
   - Second brain study system on Claude Code + Obsidian
 
 Exploring:
@@ -338,8 +351,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:unax.aj@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/UnaxAlonso0"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/UnaxAlonso0?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
