@@ -15,8 +15,8 @@
 <br/>
 
 <a href="https://github.com/Unatxete?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5242e1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6b9d8c?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-a34223?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-6b9d8c?style=for-the-badge" alt="LinkedIn (coming soon)" />
+<a href="mailto:unax.aj@gmail.com"><img src="https://img.shields.io/badge/Email-a34223?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Unatxete"><img src="https://img.shields.io/badge/GitHub-3c5b74?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
@@ -24,17 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=Unatxete&style=for-the-badge&color=a34223&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Unatxete?style=for-the-badge&logo=github&color=6b9d8c&labelColor=111d2b" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Unatxete/Unatxete?style=for-the-badge&logo=github&color=5242e1&labelColor=111d2b" alt="Stars" />
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Unatxete">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_sidebar.svg" />
-    <img alt="Unax Alonso: profile sidebar" src="./assets/light_sidebar.svg" />
-  </picture>
-</a>
 
 </div>
 
@@ -48,126 +37,13 @@ Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network
 
 ---
 
-## Tech Stack
+## Knowledge
 
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=3&line1=python%2CPython%2Cauto%3Bgnubash%2CBash%2Cauto%3Bmarkdown%2CMarkdown%2Cauto%3Bmysql%2CMySQL%2Cauto%3B&line2=wireguard%2CWireGuard%2Cauto%3Bsnort%2CSnort%2Cauto%3B&line3=git%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto%3Blinux%2CLinux%2Cauto%3Bfedora%2CFedora%2Cauto%3Bgithubactions%2CGitHub+Actions%2Cauto%3Bobsidian%2CObsidian%2Cauto%3Buv%2Cuv%2Cauto%3B&bg=%23111d2b&border=%233c5b74&titleColor=%23cccfae&showBorder=true&width=1000" alt="Tech Stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/sqlmap-3c5b74?style=flat-square" alt="sqlmap" />
-<img src="https://img.shields.io/badge/GDPR%20%2F%20RGPD-6b9d8c?style=flat-square" alt="GDPR RGPD" />
-<img src="https://img.shields.io/badge/VS_Code-5242e1?style=flat-square" alt="VS Code" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Unatxete/AE2-BLOCKCHAIN">
-  <img src="./profile/pin-ae2-blockchain.svg" alt="AE2-BLOCKCHAIN repository card" />
-</a>
-
-</div>
-
-<details>
-<summary><b>AE2-BLOCKCHAIN &nbsp;|&nbsp; Cryptographic Blockchain in Python</b></summary>
-
-<br/>
-
-A blockchain implementation built around modern cryptographic primitives: digital signatures for transaction authenticity, hashing for chain integrity and authenticated encryption for protected payloads.
-
-| | |
-|:--|:--|
-| **Stack** | Python, ECDSA, SHA-256, ChaCha20, AES-256-GCM |
-| **Scale** | Complete chain lifecycle: key generation, signing, hashing, encryption and verification |
-| **Performance** | Stream cipher (ChaCha20) and hardware-friendly AEAD (AES-256-GCM) options for payload protection |
-| **Security** | Signature verification, tamper-evident hash linking and authenticated encryption |
-| **Impact** | End-to-end applied cryptography project completed as part of the cybersecurity degree |
-| **Repository** | [Unatxete/AE2-BLOCKCHAIN](https://github.com/Unatxete/AE2-BLOCKCHAIN) |
-
-Designed to show how signatures, hashes and symmetric encryption combine into a system where every block can be independently verified.
-
-</details>
-
-<details>
-<summary><b>Network & Database Security Labs &nbsp;|&nbsp; EUNEIZ</b></summary>
-
-<br/>
-
-A series of hands-on labs in isolated environments covering both defensive and offensive techniques, each documented with findings and mitigations.
-
-| | |
-|:--|:--|
-| **Stack** | WireGuard, Snort, sqlmap, MySQL, Linux |
-| **Scale** | Five lab scenarios spanning network, application and database layers |
-| **Performance** | Encrypted tunnel configuration and rule-based intrusion detection deployment |
-| **Security** | SQL injection, ARP spoofing / MITM demonstration and MySQL privilege escalation through a `SQL SECURITY DEFINER` view, each paired with remediation |
-| **Impact** | Practical understanding of how attacks work in order to design controls that stop them |
-| **Repository** | University coursework |
-
-</details>
-
----
-
-## Experience
-
-### Cybersecurity Student
-**EUNEIZ, Universidad de Vitoria-Gasteiz** &nbsp;|&nbsp; In progress, 3rd year
-
-Degree focused on defending systems and data, combining technical depth with regulatory awareness.
-
-- Network security: VPNs, intrusion detection, traffic analysis and attack demonstrations in labs
-- Databases: privilege models, encryption, backups and hardening of MySQL
-- Cryptography: symmetric and asymmetric primitives applied in working code
-- Algorithms and data structures implemented in Python
-- Data protection: GDPR / RGPD and AEPD methodology
-
-<img src="https://img.shields.io/badge/Network_Security-5242e1?style=flat-square" />
-<img src="https://img.shields.io/badge/Cryptography-645038?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-3c5b74?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-a34223?style=flat-square" />
-<img src="https://img.shields.io/badge/GDPR-6b9d8c?style=flat-square" />
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| Applied Cryptography Project | Blockchain in Python combining ECDSA, SHA-256, ChaCha20 and AES-256-GCM |
-| Network & Database Security Labs | WireGuard, Snort IDS, SQL injection, ARP spoofing and MySQL privilege escalation with mitigations |
-
-</div>
-
----
-
-## Certifications
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-CCNA_200--301-In_Progress-645038?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA 200-301 In Progress" />
-
----
-
-## Learning Roadmap
-
-<div align="center">
-
-| Domain | Focus |
-|:--|:--|
-| Networking | CCNA 200-301: routing, switching, IP services, network security fundamentals |
-| Programming | Python fundamentals and data structures, Git and GitHub workflows |
-| Databases | SQL in depth, privilege models, encryption and backup strategy |
-| Security | Applied cryptography, secure programming, data protection engineering |
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,arch,arduino,aws,bash,cloudflare,css,debian,discord,docker,git,html,java,javascript,kali,linux,markdown,mongodb,mysql,nginx,obsidian,php,powershell,python,raspberrypi,redhat,stackoverflow,ubuntu,vscode,windows&theme=dark&perline=15" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
@@ -207,35 +83,11 @@ Degree focused on defending systems and data, combining technical depth with reg
 
 ---
 
-## Contribution Snake
+## Contribution Game
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - CCNA 200-301 and network fundamentals
-  - Applied cryptography and secure programming
-  - Data protection engineering (GDPR / RGPD)
-
-Exploring:
-  - Defensive security automation
-
-Open To:
-  - Cybersecurity internships and junior security roles
-  - Open source collaboration
-```
+<p align="center">
+  <img src="./assets/game.gif" alt="Space shooter contribution graph" />
+</p>
 
 ---
 
@@ -243,9 +95,12 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-a34223?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6b9d8c?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://github.com/Unatxete"><img src="https://img.shields.io/badge/GitHub-3c5b74?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:unax.aj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn (coming soon)" />
+<a href="https://github.com/Unatxete"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+
+<br/>
+
 <a href="https://github.com/Unatxete?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5242e1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
