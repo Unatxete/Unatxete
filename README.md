@@ -27,17 +27,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/Unatxete">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_sidebar.svg" />
-    <img alt="Unax Alonso: profile sidebar" src="./assets/light_sidebar.svg" />
-  </picture>
-</a>
-
-</div>
-
 ---
 
 ## About 👋
@@ -48,19 +37,13 @@ Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network
 
 ---
 
-## Tech Stack
+## Knowledge
 
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=3&line1=python%2CPython%2Cauto%3Bgnubash%2CBash%2Cauto%3Bmarkdown%2CMarkdown%2Cauto%3Bmysql%2CMySQL%2Cauto%3B&line2=wireguard%2CWireGuard%2Cauto%3Bsnort%2CSnort%2Cauto%3B&line3=git%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto%3Blinux%2CLinux%2Cauto%3Bfedora%2CFedora%2Cauto%3Bgithubactions%2CGitHub+Actions%2Cauto%3Bobsidian%2CObsidian%2Cauto%3Buv%2Cuv%2Cauto%3B&bg=%23111d2b&border=%233c5b74&titleColor=%23cccfae&showBorder=true&width=1000" alt="Tech Stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/sqlmap-3c5b74?style=flat-square" alt="sqlmap" />
-<img src="https://img.shields.io/badge/GDPR%20%2F%20RGPD-6b9d8c?style=flat-square" alt="GDPR RGPD" />
-<img src="https://img.shields.io/badge/VS_Code-5242e1?style=flat-square" alt="VS Code" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,arch,arduino,aws,bash,cloudflare,css,debian,discord,docker,git,github,gmail,html,java,javascript,kali,linkedin,linux,markdown,mongodb,mysql,nginx,obsidian,php,powershell,python,raspberrypi,redhat,stackoverflow,ubuntu,vscode,windows&theme=dark&perline=15" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
