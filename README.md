@@ -73,24 +73,6 @@ Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unatxete&bg_color=111d2b&color=cccfae&line=5242e1&point=6b9d8c&area=true&area_color=3c5b74&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-## Contribution Game
-
-<p align="center">
-  <img src="./assets/game.gif" alt="Space shooter contribution graph" />
-</p>
-
----
-
 ## Connect
 
 <div align="center">
@@ -98,10 +80,6 @@ Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network
 <a href="mailto:unax.aj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn (coming soon)" />
 <a href="https://github.com/Unatxete"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-
-<br/>
-
-<a href="https://github.com/Unatxete?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5242e1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
