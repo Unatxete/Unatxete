@@ -1,38 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=240&section=header&text=Unax%20Alonso&fontSize=64&fontColor=ede9fe&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%C2%B7%20Automation%20%C2%B7%20Applied%20AI&descSize=20&descAlignY=60&descColor=c4b5fd" width="100%" alt="Unax Alonso" />
+<img src="./assets/banner.gif" width="100%" alt="Unax Alonso" />
 
-<a href="https://github.com/UnaxAlonso0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;AI-Assisted+Tooling+%2B+MCP+Integrations;Applied+Cryptography+%7C+Networks+%7C+Data+Protection" alt="Typing SVG" />
+<a href="https://github.com/Unatxete">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5242E1&center=true&vCenter=true&width=780&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;AI-Assisted+Tooling+%2B+MCP+Integrations;Applied+Cryptography+%7C+Networks+%7C+Data+Protection" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/EUNEIZ-Universidad_de_Vitoria--Gasteiz-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white" alt="EUNEIZ" />
-<img src="https://img.shields.io/badge/Cybersecurity-3rd_Year-312e81?style=for-the-badge" alt="Cybersecurity 3rd Year" />
-<img src="https://img.shields.io/badge/Basque_Country%2C_Spain-5b21b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/EUNEIZ-Universidad_de_Vitoria--Gasteiz-5242e1?style=for-the-badge&logo=googlescholar&logoColor=white" alt="EUNEIZ" />
+<img src="https://img.shields.io/badge/Cybersecurity-3rd_Year-3c5b74?style=for-the-badge" alt="Cybersecurity 3rd Year" />
+<img src="https://img.shields.io/badge/Basque_Country%2C_Spain-645038?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br/>
 
-<a href="https://github.com/UnaxAlonso0?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/UnaxAlonso0"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Unatxete?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5242e1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6b9d8c?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-a34223?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Unatxete"><img src="https://img.shields.io/badge/GitHub-3c5b74?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=UnaxAlonso0&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/UnaxAlonso0?style=for-the-badge&logo=github&color=4f46e5&labelColor=1e1b4b" alt="Followers" />
-<img src="https://img.shields.io/github/stars/UnaxAlonso0/UnaxAlonso0?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Unatxete&style=for-the-badge&color=a34223&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Unatxete?style=for-the-badge&logo=github&color=6b9d8c&labelColor=111d2b" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Unatxete/Unatxete?style=for-the-badge&logo=github&color=5242e1&labelColor=111d2b" alt="Stars" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/UnaxAlonso0">
+<a href="https://github.com/Unatxete">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg" />
-    <img alt="Unax Alonso: profile card" src="./assets/light_mode.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_sidebar.svg" />
+    <img alt="Unax Alonso: profile sidebar" src="./assets/light_sidebar.svg" />
   </picture>
 </a>
 
@@ -66,28 +66,28 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=py,bash,md&theme=dark" alt="Languages" />
-<img src="https://img.shields.io/badge/SQL-4c1d95?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-5242e1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 
 ### Security & Networking
 
-<img src="https://img.shields.io/badge/WireGuard-5b21b6?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
-<img src="https://img.shields.io/badge/Snort-IDS-4c1d95?style=flat-square" alt="Snort IDS" />
-<img src="https://img.shields.io/badge/sqlmap-312e81?style=flat-square" alt="sqlmap" />
-<img src="https://img.shields.io/badge/Applied_Cryptography-6d28d9?style=flat-square" alt="Applied Cryptography" />
-<img src="https://img.shields.io/badge/GDPR%20%2F%20RGPD-4f46e5?style=flat-square" alt="GDPR RGPD" />
+<img src="https://img.shields.io/badge/WireGuard-645038?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+<img src="https://img.shields.io/badge/Snort-IDS-5242e1?style=flat-square" alt="Snort IDS" />
+<img src="https://img.shields.io/badge/sqlmap-3c5b74?style=flat-square" alt="sqlmap" />
+<img src="https://img.shields.io/badge/Applied_Cryptography-a34223?style=flat-square" alt="Applied Cryptography" />
+<img src="https://img.shields.io/badge/GDPR%20%2F%20RGPD-6b9d8c?style=flat-square" alt="GDPR RGPD" />
 
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/REST_APIs-5b21b6?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-4c1d95?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/REST_APIs-645038?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-5242e1?style=flat-square" alt="MCP" />
 
 ### Cloud, DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,fedora,vscode,obsidian&theme=dark" alt="Tooling" />
-<img src="https://img.shields.io/badge/GitHub_Actions-312e81?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Claude_Code-6d28d9?style=flat-square" alt="Claude Code" />
-<img src="https://img.shields.io/badge/uv-4c1d95?style=flat-square" alt="uv" />
+<img src="https://img.shields.io/badge/GitHub_Actions-3c5b74?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Claude_Code-a34223?style=flat-square" alt="Claude Code" />
+<img src="https://img.shields.io/badge/uv-5242e1?style=flat-square" alt="uv" />
 
 ---
 
@@ -106,7 +106,7 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 
 <div align="center">
 
-<a href="https://github.com/UnaxAlonso0/AE2-BLOCKCHAIN">
+<a href="https://github.com/Unatxete/AE2-BLOCKCHAIN">
   <img src="./profile/pin-ae2-blockchain.svg" alt="AE2-BLOCKCHAIN repository card" />
 </a>
 
@@ -126,7 +126,7 @@ A blockchain implementation built around modern cryptographic primitives: digita
 | **Performance** | Stream cipher (ChaCha20) and hardware-friendly AEAD (AES-256-GCM) options for payload protection |
 | **Security** | Signature verification, tamper-evident hash linking and authenticated encryption |
 | **Impact** | End-to-end applied cryptography project completed as part of the cybersecurity degree |
-| **Repository** | [UnaxAlonso0/AE2-BLOCKCHAIN](https://github.com/UnaxAlonso0/AE2-BLOCKCHAIN) |
+| **Repository** | [Unatxete/AE2-BLOCKCHAIN](https://github.com/Unatxete/AE2-BLOCKCHAIN) |
 
 Designed to show how signatures, hashes and symmetric encryption combine into a system where every block can be independently verified.
 
@@ -223,11 +223,11 @@ Degree focused on defending systems and data, combining technical depth with reg
 - Algorithms and data structures implemented in Python
 - Data protection: GDPR / RGPD and AEPD methodology
 
-<img src="https://img.shields.io/badge/Network_Security-4c1d95?style=flat-square" />
-<img src="https://img.shields.io/badge/Cryptography-5b21b6?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-312e81?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square" />
-<img src="https://img.shields.io/badge/GDPR-4f46e5?style=flat-square" />
+<img src="https://img.shields.io/badge/Network_Security-5242e1?style=flat-square" />
+<img src="https://img.shields.io/badge/Cryptography-645038?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-3c5b74?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-a34223?style=flat-square" />
+<img src="https://img.shields.io/badge/GDPR-6b9d8c?style=flat-square" />
 
 ### Independent AI Automation Engineer
 **Personal Projects** &nbsp;|&nbsp; Ongoing
@@ -239,10 +239,10 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 - Designing a syllabus-driven study system on Claude Code and Obsidian
 - Documenting runbooks, syntax references and knowledge modules for repeatable operation
 
-<img src="https://img.shields.io/badge/Claude_Code-6d28d9?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP-4c1d95?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-5b21b6?style=flat-square" />
-<img src="https://img.shields.io/badge/Documentation-312e81?style=flat-square" />
+<img src="https://img.shields.io/badge/Claude_Code-a34223?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-5242e1?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-645038?style=flat-square" />
+<img src="https://img.shields.io/badge/Documentation-3c5b74?style=flat-square" />
 
 ---
 
@@ -265,7 +265,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 ### Cisco
 
-<img src="https://img.shields.io/badge/Cisco-CCNA_200--301-In_Progress-5b21b6?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA 200-301 In Progress" />
+<img src="https://img.shields.io/badge/Cisco-CCNA_200--301-In_Progress-645038?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA 200-301 In Progress" />
 
 ---
 
@@ -293,7 +293,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=UnaxAlonso0&theme=dark&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=7C3AED&stroke=312E81&border=312E81" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Unatxete&theme=dark&background=111D2B&ring=5242E1&fire=A34223&currStreakNum=CCCFAE&sideNums=CCCFAE&currStreakLabel=6B9D8C&sideLabels=6B9D8C&dates=5242E1&stroke=3C5B74&border=3C5B74" alt="GitHub Streak" />
 
 </div>
 
@@ -314,7 +314,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=UnaxAlonso0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Unatxete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -324,7 +324,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnaxAlonso0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unatxete&bg_color=111d2b&color=cccfae&line=5242e1&point=6b9d8c&area=true&area_color=3c5b74&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -335,9 +335,9 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnaxAlonso0/UnaxAlonso0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnaxAlonso0/UnaxAlonso0/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/UnaxAlonso0/UnaxAlonso0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Unatxete/Unatxete/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -371,10 +371,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://github.com/UnaxAlonso0"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/UnaxAlonso0?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-a34223?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6b9d8c?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://github.com/Unatxete"><img src="https://img.shields.io/badge/GitHub-3c5b74?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Unatxete?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-5242e1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -384,6 +384,6 @@ Open To:
 
 *Security is not a feature you add at the end; it is a property you design from the first commit.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=140&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5242e1,50:3c5b74,100:111d2b&height=140&section=footer" width="100%" alt="Footer" />
 
 </div>
