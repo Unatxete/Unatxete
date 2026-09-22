@@ -1,41 +1,37 @@
 #!/usr/bin/env python3
-"""Regenerate the profile card SVGs (dark and light) with PUBLIC-only GitHub aggregates.
+"""Regenerate the profile sidebar SVGs (dark and light) with the PUBLIC follower count.
 
-Fetches four unambiguously public figures for the repository owner and writes them
-into the committed terminal-panel SVGs by replacing the text of elements addressed by
-`id`. No private-repository data (names, line counts, private activity) is ever
-requested or written: every field below is derived from PUBLIC repositories only.
+Fetches the follower count for the repository owner and hands it to sidebar_card.build(),
+which lays the card out again so the followers line stays accurate.
+No private-repository data is ever requested or written.
 
 Requires only the Python standard library. Reads:
   GH_TOKEN  - a read-only token (see .github/workflows/profile-stats.yml)
-  GH_LOGIN  - the GitHub login to report on (defaults to UnaxAlonso0)
+  GH_LOGIN  - the GitHub login to report on (defaults to Unatxete)
 """
 from __future__ import annotations
 
 import json
 import os
-import re
 import sys
 import urllib.request
 
+import sidebar_card
+
 HERE = os.path.dirname(os.path.abspath(__file__))
-SVG_PATHS = [os.path.join(HERE, f"{theme}_mode.svg") for theme in ("dark", "light")]
 API_URL = "https://api.github.com/graphql"
 
 QUERY = """
 query($login:String!){
   user(login:$login){
     followers{ totalCount }
-    repositories(privacy:PUBLIC, ownerAffiliations:OWNER){ totalCount }
-    repositoriesContributedTo(privacy:PUBLIC, contributionTypes:[COMMIT,PULL_REQUEST,ISSUE,REPOSITORY]){ totalCount }
-    ownedStars: repositories(privacy:PUBLIC, ownerAffiliations:OWNER, first:100){ nodes{ stargazerCount } }
   }
 }
 """
 
 
-def fetch(login: str, token: str) -> dict:
-    payload = json.dumps({"query": QUERY, "variables": {"login": login}}).encode()
+def graphql(query: str, variables: dict, token: str, login: str) -> dict:
+    payload = json.dumps({"query": query, "variables": variables}).encode()
     req = urllib.request.Request(
         API_URL,
         data=payload,
@@ -49,41 +45,25 @@ def fetch(login: str, token: str) -> dict:
         body = json.load(resp)
     if "errors" in body:
         raise SystemExit(f"GraphQL errors: {body['errors']}")
-    user = body["data"]["user"]
-    return {
-        "v_repos": user["repositories"]["totalCount"],
-        "v_stars": sum(n["stargazerCount"] for n in user["ownedStars"]["nodes"]),
-        "v_followers": user["followers"]["totalCount"],
-        "v_contrib": user["repositoriesContributedTo"]["totalCount"],
-    }
+    return body["data"]["user"]
 
 
-def apply(svg: str, values: dict) -> str:
-    for element_id, value in values.items():
-        # Replace the text content of <tspan ... id="element_id">OLD</tspan> in place.
-        pattern = re.compile(
-            r'(<tspan\b[^>]*\bid="' + re.escape(element_id) + r'"[^>]*>)[^<]*(</tspan>)'
-        )
-        new_svg, count = pattern.subn(rf"\g<1>{value}\g<2>", svg)
-        if count != 1:
-            raise SystemExit(f"expected exactly one element id={element_id!r}, found {count}")
-        svg = new_svg
-    return svg
+def fetch_followers(login: str, token: str) -> int:
+    user = graphql(QUERY, {"login": login}, token, login)
+    return user["followers"]["totalCount"]
 
 
 def main() -> int:
     token = os.environ.get("GH_TOKEN")
     if not token:
         raise SystemExit("GH_TOKEN is not set")
-    login = os.environ.get("GH_LOGIN", "UnaxAlonso0")
+    login = os.environ.get("GH_LOGIN", "Unatxete")
 
-    values = fetch(login, token)
-    for path in SVG_PATHS:
-        with open(path, encoding="utf-8") as fh:
-            svg = fh.read()
-        with open(path, "w", encoding="utf-8") as fh:
-            fh.write(apply(svg, values))
-    print("card SVGs updated:", values)
+    followers = fetch_followers(login, token)
+    for theme in sidebar_card.THEMES:
+        with open(os.path.join(HERE, f"{theme}_sidebar.svg"), "w", encoding="utf-8") as fh:
+            fh.write(sidebar_card.build(theme, followers))
+    print("sidebar SVGs updated: followers =", followers)
     return 0
 
 
