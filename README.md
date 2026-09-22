@@ -50,29 +50,17 @@ Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,bash,md&theme=dark" alt="Languages" />
-<img src="https://img.shields.io/badge/SQL-5242e1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=3&line1=python%2CPython%2Cauto%3Bgnubash%2CBash%2Cauto%3Bmarkdown%2CMarkdown%2Cauto%3Bmysql%2CMySQL%2Cauto%3B&line2=wireguard%2CWireGuard%2Cauto%3Bsnort%2CSnort%2Cauto%3B&line3=git%2CGit%2Cauto%3Bgithub%2CGitHub%2Cauto%3Blinux%2CLinux%2Cauto%3Bfedora%2CFedora%2Cauto%3Bgithubactions%2CGitHub+Actions%2Cauto%3Bobsidian%2CObsidian%2Cauto%3Buv%2Cuv%2Cauto%3B&bg=%23111d2b&border=%233c5b74&titleColor=%23cccfae&showBorder=true&width=1000" alt="Tech Stack" />
 
-### Security & Networking
+<br/>
 
-<img src="https://img.shields.io/badge/WireGuard-645038?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
-<img src="https://img.shields.io/badge/Snort-IDS-5242e1?style=flat-square" alt="Snort IDS" />
 <img src="https://img.shields.io/badge/sqlmap-3c5b74?style=flat-square" alt="sqlmap" />
-<img src="https://img.shields.io/badge/Applied_Cryptography-a34223?style=flat-square" alt="Applied Cryptography" />
 <img src="https://img.shields.io/badge/GDPR%20%2F%20RGPD-6b9d8c?style=flat-square" alt="GDPR RGPD" />
+<img src="https://img.shields.io/badge/VS_Code-5242e1?style=flat-square" alt="VS Code" />
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/REST_APIs-645038?style=flat-square" alt="REST APIs" />
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,fedora,vscode,obsidian&theme=dark" alt="Tooling" />
-<img src="https://img.shields.io/badge/GitHub_Actions-3c5b74?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/uv-5242e1?style=flat-square" alt="uv" />
+</div>
 
 ---
 
