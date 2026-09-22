@@ -310,16 +310,6 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Unatxete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
