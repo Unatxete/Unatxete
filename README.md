@@ -40,23 +40,11 @@
 
 ---
 
-## About
+## About 👋
 
-Cybersecurity student and engineer-in-training with a security-first approach to building software. I work across network security, cryptography, databases and data protection (GDPR / RGPD), and I automate everything that can be automated with reproducible tooling and repeatable workflows.
+Hey, I'm a cybersecurity engineering student 🎓 who loves digging into network security, cryptography and data protection 🔐. I enjoy building clean, automated tools ⚙️ and turning manual work into repeatable systems.
 
-- **Software engineering:** clean, modular Python with a strong bias toward automation, documentation and repeatable workflows.
-- **Security engineering:** hands-on labs in VPNs, intrusion detection, web exploitation in controlled environments and database hardening.
-- **Product mindset:** systems designed around real users and real constraints, with explicit rules, safe defaults and clear ownership of decisions.
-
-<div align="center">
-
-| Open To |
-|:--|
-| Cybersecurity internships and junior security roles |
-| Security engineering, secure development and automation projects |
-| Open source collaboration |
-
-</div>
+🌱 Open to cybersecurity internships, security engineering roles and open source collaboration — always happy to chat!
 
 ---
 
