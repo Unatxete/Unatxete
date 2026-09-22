@@ -3,7 +3,7 @@
 <img src="./assets/banner.gif" width="100%" alt="Unax Alonso" />
 
 <a href="https://github.com/Unatxete">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5242E1&center=true&vCenter=true&width=780&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;AI-Assisted+Tooling+%2B+MCP+Integrations;Applied+Cryptography+%7C+Networks+%7C+Data+Protection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5242E1&center=true&vCenter=true&width=780&height=48&lines=Cybersecurity+Engineer+in+Training;Security-First+Software+%26+Automation;Applied+Cryptography+%7C+Networks+%7C+Data+Protection" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,10 +42,9 @@
 
 ## About
 
-Cybersecurity student and engineer-in-training with a security-first approach to building software. I work across network security, cryptography, databases and data protection (GDPR / RGPD), and I automate everything that can be automated: modular AI-assisted systems, MCP integrations and reproducible tooling.
+Cybersecurity student and engineer-in-training with a security-first approach to building software. I work across network security, cryptography, databases and data protection (GDPR / RGPD), and I automate everything that can be automated with reproducible tooling and repeatable workflows.
 
 - **Software engineering:** clean, modular Python with a strong bias toward automation, documentation and repeatable workflows.
-- **Applied AI:** LLM-driven tooling built on Claude Code and the Model Context Protocol (MCP), from automation frameworks to personal knowledge systems.
 - **Security engineering:** hands-on labs in VPNs, intrusion detection, web exploitation in controlled environments and database hardening.
 - **Product mindset:** systems designed around real users and real constraints, with explicit rules, safe defaults and clear ownership of decisions.
 
@@ -55,7 +54,7 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 |:--|
 | Cybersecurity internships and junior security roles |
 | Security engineering, secure development and automation projects |
-| Applied AI tooling, MCP integrations and open source collaboration |
+| Open source collaboration |
 
 </div>
 
@@ -80,25 +79,12 @@ Cybersecurity student and engineer-in-training with a security-first approach to
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
 <img src="https://img.shields.io/badge/REST_APIs-645038?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-5242e1?style=flat-square" alt="MCP" />
 
 ### Cloud, DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,fedora,vscode,obsidian&theme=dark" alt="Tooling" />
 <img src="https://img.shields.io/badge/GitHub_Actions-3c5b74?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Claude_Code-a34223?style=flat-square" alt="Claude Code" />
 <img src="https://img.shields.io/badge/uv-5242e1?style=flat-square" alt="uv" />
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|:--|:--|:--|
-| AI-Assisted Automation | Hands-on | Modular systems on Claude Code with slash commands, persistent context and repeatable workflows |
-| Model Context Protocol (MCP) | Hands-on | Integrations with several external services; a 67-tool server audited and debugged |
-| LLM Tooling & Prompt Engineering | Applied | Structured prompts, knowledge modules and handoff protocols for agentic coding workflows |
-| AI Governance & Privacy | Academic | Data Protection Impact Assessment of an LLM-driven recommender following AEPD methodology |
 
 ---
 
@@ -133,46 +119,6 @@ Designed to show how signatures, hashes and symmetric encryption combine into a 
 </details>
 
 <details>
-<summary><b>Claude Code Automation Framework &nbsp;|&nbsp; Modular AI Workflows + MCP</b></summary>
-
-<br/>
-
-A modular automation framework where a `CLAUDE.md` file orchestrates knowledge modules, slash commands and live data from external services through MCP. It turns recurring manual routines into structured, repeatable workflows.
-
-| | |
-|:--|:--|
-| **Stack** | Claude Code, MCP, REST APIs, Python (`uv`), Git |
-| **Scale** | 67 MCP tools in a single server integration, several external services connected |
-| **Performance** | End-to-end workflows generated and synchronised without manual steps |
-| **Security** | Token-based authentication, credentials kept out of version control, documented fallback when a provider fails |
-| **Impact** | 13 integration defects identified and resolved; runbooks and syntax references for repeatable operation |
-| **Repository** | Available on request |
-
-Built with explicit rules (mandatory review notes, deduplicated syncs, documented constraints) so the system behaves predictably over time.
-
-</details>
-
-<details>
-<summary><b>Second Brain Study System &nbsp;|&nbsp; Claude Code + Obsidian</b></summary>
-
-<br/>
-
-A self-directed study system for cybersecurity fundamentals: a Claude Code repository wired into an Obsidian vault that checks notes against official syllabi, quizzes for retention and recommends what to study next.
-
-| | |
-|:--|:--|
-| **Stack** | Claude Code, Obsidian, Markdown, Git, Syncthing, Smart Connections |
-| **Scale** | 7 slash commands covering daily planning, guided study, completeness review, quizzes, resource search, previews and progress |
-| **Performance** | Local semantic search and a cap on simultaneously active modules to keep study sessions focused |
-| **Security** | No-overwrite and no-delete rule without confirmation; credentials excluded before the first commit |
-| **Impact** | Structured path toward CCNA 200-301, Python, SQL and Git beyond the university curriculum |
-| **Repository** | Local repository, in development |
-
-Design principle: free resources first, syllabus-driven completeness checks and a system that never destroys the user's notes.
-
-</details>
-
-<details>
 <summary><b>Network & Database Security Labs &nbsp;|&nbsp; EUNEIZ</b></summary>
 
 <br/>
@@ -186,24 +132,6 @@ A series of hands-on labs in isolated environments covering both defensive and o
 | **Performance** | Encrypted tunnel configuration and rule-based intrusion detection deployment |
 | **Security** | SQL injection, ARP spoofing / MITM demonstration and MySQL privilege escalation through a `SQL SECURITY DEFINER` view, each paired with remediation |
 | **Impact** | Practical understanding of how attacks work in order to design controls that stop them |
-| **Repository** | University coursework |
-
-</details>
-
-<details>
-<summary><b>DPIA on an LLM Recommender &nbsp;|&nbsp; Data Protection Impact Assessment</b></summary>
-
-<br/>
-
-A full Data Protection Impact Assessment (EIPD) of YouTube's LLM-driven recommendation system, written in Spanish and structured according to the methodology of the Spanish Data Protection Agency (AEPD).
-
-| | |
-|:--|:--|
-| **Stack** | AEPD methodology, GDPR / RGPD, risk analysis |
-| **Scale** | Complete assessment: processing description, necessity and proportionality, risk identification and mitigation |
-| **Performance** | Structured, reproducible assessment framework |
-| **Security** | Risk treatment for profiling, minors, transparency and data subject rights |
-| **Impact** | Bridges legal compliance and technical controls for AI-driven systems |
 | **Repository** | University coursework |
 
 </details>
@@ -229,21 +157,6 @@ Degree focused on defending systems and data, combining technical depth with reg
 <img src="https://img.shields.io/badge/Python-a34223?style=flat-square" />
 <img src="https://img.shields.io/badge/GDPR-6b9d8c?style=flat-square" />
 
-### Independent AI Automation Engineer
-**Personal Projects** &nbsp;|&nbsp; Ongoing
-
-Design and maintenance of AI-assisted systems that replace manual routines with structured, auditable automation.
-
-- Built and maintain a modular automation framework on Claude Code with MCP integrations
-- Audited and debugged a 67-tool MCP server, resolving 13 defects
-- Designing a syllabus-driven study system on Claude Code and Obsidian
-- Documenting runbooks, syntax references and knowledge modules for repeatable operation
-
-<img src="https://img.shields.io/badge/Claude_Code-a34223?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP-5242e1?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-645038?style=flat-square" />
-<img src="https://img.shields.io/badge/Documentation-3c5b74?style=flat-square" />
-
 ---
 
 ## Achievements
@@ -253,9 +166,7 @@ Design and maintenance of AI-assisted systems that replace manual routines with 
 | Recognition | Details |
 |:--|:--|
 | Applied Cryptography Project | Blockchain in Python combining ECDSA, SHA-256, ChaCha20 and AES-256-GCM |
-| Data Protection Impact Assessment | Full EIPD of an LLM recommendation system following AEPD methodology |
 | Network & Database Security Labs | WireGuard, Snort IDS, SQL injection, ARP spoofing and MySQL privilege escalation with mitigations |
-| MCP Tooling Audit | 67-tool server integration reviewed, with 13 defects identified and fixed |
 
 </div>
 
@@ -342,12 +253,7 @@ Learning:
   - Applied cryptography and secure programming
   - Data protection engineering (GDPR / RGPD)
 
-Building:
-  - Claude Code automation framework with MCP integrations
-  - Second brain study system on Claude Code + Obsidian
-
 Exploring:
-  - Agentic workflows and MCP server tooling
   - Defensive security automation
 
 Open To:
