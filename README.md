@@ -204,6 +204,14 @@ Degree focused on defending systems and data, combining technical depth with reg
 
 ---
 
+## Contribution Game
+
+<p align="center">
+  <img src="./assets/game.gif" alt="Space shooter contribution graph" />
+</p>
+
+---
+
 ## Current Focus
 
 ```yaml
